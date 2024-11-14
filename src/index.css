@@ -13,7 +13,7 @@ button {
 body {
 	font-family: Inter, sans-serif;
 	height: 100vh;
-	background-image: radial-gradient(ellipse, #385300, #212900);
+	background-image: radial-gradient(ellipse, #005053, #002926);
 }
 
 #root {
@@ -30,7 +30,7 @@ main {
 }
 
 .card {
-	background-color: #bef227;
+	background-color: #27c3f2;
 	width: 476px;
 	height: 615px;
 	border-radius: 12px;
@@ -42,7 +42,7 @@ main {
 }
 
 .card--limit {
-	background-color: #a3d11b;
+	background-color: #1bd1b9;
 }
 
 .title {
@@ -51,7 +51,7 @@ main {
 	letter-spacing: 1px;
 	width: 200px;
 	text-align: center;
-	line-height: 0.9;
+	line-height: 1.1;
 	font-weight: 500;
 	font-size: 32px;
 	margin-top: 60px;
@@ -82,7 +82,7 @@ main {
 }
 
 .button-container {
-	background-color: #1d2507;
+	background-color: #072523;
 	height: 116px;
 	width: 100%;
 	margin-top: auto;
@@ -106,7 +106,7 @@ main {
 
 .count-btn:hover,
 .count-btn:focus {
-	background-color: #212b06;
+	background-color: #061c2b;
 }
 
 .count-btn--plus {
@@ -114,7 +114,7 @@ main {
 }
 
 .count-btn-icon {
-	color: #bdfe00;
+	color: #00fefe;
 	opacity: 0.9;
 	height: 40px;
 	width: 40px;
