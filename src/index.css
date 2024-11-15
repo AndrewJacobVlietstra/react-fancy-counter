@@ -42,16 +42,16 @@ main {
 }
 
 .card--limit {
-	background-color: #1bd1b9;
+	background-color: #0ee7ca;
 }
 
 .title {
 	opacity: 0.6;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	width: 200px;
 	text-align: center;
 	line-height: 1.1;
+	width: 200px;
 	font-weight: 500;
 	font-size: 32px;
 	margin-top: 60px;
